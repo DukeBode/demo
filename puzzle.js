@@ -33,7 +33,7 @@ function show(){
     var x=600;
     var y=100;
     for(var id_i=1 ;id_i<=9;id_i++){
-        document.getElementById("d"+id_i).style.backgroundImage="url(img/1.jpg)";
+        document.getElementById("d"+id_i).style.backgroundImage="url(http://yfs01.fs.yiban.cn/web/5000209/upload/1508897550136004.jpg)";
         document.getElementById("d"+id_i).style.backgroundPositionX=-posXY[id_i][0]-x+"px";
         document.getElementById("d"+id_i).style.backgroundPositionY=-posXY[id_i][1]-y+"px";
         document.getElementById("d"+id_i).style.left=posXY[id_i][0]+"px";
